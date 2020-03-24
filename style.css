@@ -1,0 +1,64 @@
+/**{
+	margin: 0;
+	padding:0;
+}*/
+body{
+
+}
+
+./*nab-bar{
+	background- color:212326;
+}*/
+/*.jumbotron{
+	background-color: coral;
+}*/
+/*Working on footer*/
+#footer {
+    /*position: fixed;*/
+    top: 0;
+    width: 100%;
+    height: 300px;
+    /*text-align: center;*/
+    background-color: black;
+    font-size: 20px;
+    color: black;
+    margin: 0;
+}
+.header-back{
+	background-image: url("https://tinyhorse.com/wp-content/uploads/2019/04/Value-Prop-Tiny-Horse-Services.jpg");
+	background-size: 100vh;
+	background-position: bottom center;
+	background-attachment: scroll;
+	background-repeat: no repeat;
+	background-size: cover;
+	height: 100vh;
+}
+
+nav {
+	height: 88px;
+	padding: 0 40px;
+}
+nav li {
+	padding: 0 13px;
+	font-family: Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: 300;
+	letter-spacing: 1px
+	text-transform: uppercase;
+}
+nav li a {
+	text-decoration: none;
+	color: #ffffff;
+	transition: background-color 0.4s ease-in-out,color 0.4s ease-in-out,border-color 0.4s ease-in-out;
+}
+nav li a:hover {
+	color:white;
+	border-bottom: 2px solid #ce6451;
+}
+nav img {
+	max-height: 88px;
+	width: auto;
+}
+
+
+
